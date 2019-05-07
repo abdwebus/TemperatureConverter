@@ -1,0 +1,22 @@
+﻿.topMargin {
+    margin-top: 160px;
+}
+
+.responsiveImage {
+    width: 350px;
+}
+
+.centerDiv {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+@media (max-width: 1200px) {
+    .topMargin {
+        margin-top: 60px;
+    }
+}
